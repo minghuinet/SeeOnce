@@ -29,6 +29,9 @@ python3 MainUI.py
 - Python38     python3环境
 - 内网渗透      内网渗透工具（不展示，可自己添加）
 
+完整目录结构如下
+![image](https://github.com/user-attachments/assets/d6b5a31b-ed79-439d-b29e-415e9d2a9c70)
+
 # 自定义工具配置
 ## UI控件添加
 编辑MainUI.py文件，在对应模块下添加控件，如需要在安卓测试模块添加工具，则在对应位置复制以下内容
