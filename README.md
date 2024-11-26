@@ -1,7 +1,10 @@
 # SeeOnce
 初见渗透测试工具箱
 初见渗透测试工具箱是一款python编写的UI集成项目，解决平时渗透工作繁杂的工具安装及环境兼容问题，项目集成了pyhon、java等环境配置，配备了渗透所需的常用工具，开箱即用，首次发布时间于2022年10月，经过多次更新迭代，正式更名为SeeOnce
-本项目只提供工具箱代码部分，由于工具资源比较大，工具部分链接：`https://pan.quark.cn/s/f077e24d387e`
+
+本项目只提供工具箱代码部分，由于工具资源比较大，完整版工具请通过夸克网盘获取：链接：https://pan.quark.cn/s/e542f1d79eb1
+解压密码请通过公众号“小阿辉谈安全”回复"SeeOnce"获取，用于统计工具流传数量
+
 ![image](https://github.com/user-attachments/assets/a519947b-b161-4896-8ed6-d3ab289ad98a)
 ![image](https://github.com/user-attachments/assets/dcc0f25b-ffa9-4a74-bcb5-f4d9211263a1)
 ![image](https://github.com/user-attachments/assets/f71c3bb2-5c98-40a4-8de2-c1c179c217d3)
